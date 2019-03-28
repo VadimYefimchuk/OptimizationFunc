@@ -1,0 +1,7 @@
+E:\Папка\Воднік\3 курс\2 семестр\Оптимізація обчислень\Lab1\Lab!\bin\Debug\Lab!.exe.config
+E:\Папка\Воднік\3 курс\2 семестр\Оптимізація обчислень\Lab1\Lab!\bin\Debug\Lab!.exe
+E:\Папка\Воднік\3 курс\2 семестр\Оптимізація обчислень\Lab1\Lab!\bin\Debug\Lab!.pdb
+E:\Папка\Воднік\3 курс\2 семестр\Оптимізація обчислень\Lab1\Lab!\obj\Debug\Lab!.csprojAssemblyReference.cache
+E:\Папка\Воднік\3 курс\2 семестр\Оптимізація обчислень\Lab1\Lab!\obj\Debug\Lab!.csproj.CoreCompileInputs.cache
+E:\Папка\Воднік\3 курс\2 семестр\Оптимізація обчислень\Lab1\Lab!\obj\Debug\Lab!.exe
+E:\Папка\Воднік\3 курс\2 семестр\Оптимізація обчислень\Lab1\Lab!\obj\Debug\Lab!.pdb
