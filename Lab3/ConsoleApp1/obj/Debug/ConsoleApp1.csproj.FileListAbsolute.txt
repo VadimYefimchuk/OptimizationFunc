@@ -1,0 +1,7 @@
+E:\Папка\Воднік\3 курс\2 семестр\Оптимізація обчислень\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Папка\Воднік\3 курс\2 семестр\Оптимізація обчислень\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Папка\Воднік\3 курс\2 семестр\Оптимізація обчислень\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Папка\Воднік\3 курс\2 семестр\Оптимізація обчислень\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\Папка\Воднік\3 курс\2 семестр\Оптимізація обчислень\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Папка\Воднік\3 курс\2 семестр\Оптимізація обчислень\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Папка\Воднік\3 курс\2 семестр\Оптимізація обчислень\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
